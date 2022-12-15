@@ -1,0 +1,148 @@
+[
+  {
+    "id": 1,
+    "name": "Gorillaz",
+    "year": "2001",
+    "songs": [
+      {
+        "name": "Re-Hash",
+        "url": "https://www.youtube.com/watch?v=E0CU-GlQlwE&list=PLT8QQ5brLpQDo48gm1US1hLHLShDapU1I&index=1&ab_channel=Gorillaz-Topic"
+      },
+      {
+        "name": "5/4",
+        "url": "https://www.youtube.com/watch?v=z46bm9HR7L4&list=PLT8QQ5brLpQDo48gm1US1hLHLShDapU1I&index=2&ab_channel=Gorillaz-Topic"
+      },
+      {
+        "name": "Tomorrow Comes Today",
+        "url": "https://www.youtube.com/watch?v=glJVAVjlaVY&list=PLT8QQ5brLpQDo48gm1US1hLHLShDapU1I&index=3&ab_channel=Gorillaz-Topic"
+      },
+      {
+        "name": "New Genius",
+        "url": "https://www.youtube.com/watch?v=77m-RvWF2uo&list=PLT8QQ5brLpQDo48gm1US1hLHLShDapU1I&index=4&ab_channel=Gorillaz-Topic"
+      },
+      {
+        "name": "Clint Eastwood",
+        "url": "https://www.youtube.com/watch?v=I7yqFVEvdY0&list=PLT8QQ5brLpQDo48gm1US1hLHLShDapU1I&index=5&ab_channel=Gorillaz-Topic"
+      },
+      {
+        "name": "Man Research",
+        "url": "https://www.youtube.com/watch?v=OYrmmSRePow&list=PLT8QQ5brLpQDo48gm1US1hLHLShDapU1I&index=6&ab_channel=Gorillaz-Topic"
+      },
+      {
+        "name": "Punk",
+        "url": "https://www.youtube.com/watch?v=3_O6T25qA78&list=PLT8QQ5brLpQDo48gm1US1hLHLShDapU1I&index=7&ab_channel=Gorillaz-Topic"
+      },
+      {
+        "name": "Sound Check",
+        "url": "https://www.youtube.com/watch?v=GpGGaPoQBXk&list=PLT8QQ5brLpQDo48gm1US1hLHLShDapU1I&index=8&ab_channel=Gorillaz-Topic"
+      },
+      {
+        "name": "Double Bass",
+        "url": "https://www.youtube.com/watch?v=oZo0jBndh3Q&list=PLT8QQ5brLpQDo48gm1US1hLHLShDapU1I&index=9&ab_channel=Gorillaz-Topic"
+      },
+      {
+        "name": "Rock The House",
+        "url": "https://www.youtube.com/watch?v=C7eGZUBdL4g&list=PLT8QQ5brLpQDo48gm1US1hLHLShDapU1I&index=10&ab_channel=Gorillaz-Topic"
+      },
+      {
+        "name": "19-2000",
+        "url": "https://www.youtube.com/watch?v=J8NKwTYkDH8&list=PLT8QQ5brLpQDo48gm1US1hLHLShDapU1I&index=11&ab_channel=Gorillaz-Topic"
+      },
+      {
+        "name": "Latin Simone",
+        "url": "https://www.youtube.com/watch?v=pkajnZ3q0kI&list=PLT8QQ5brLpQDo48gm1US1hLHLShDapU1I&index=12&ab_channel=Gorillaz-Topic"
+      },
+      {
+        "name": "Startshine",
+        "url": "https://www.youtube.com/watch?v=vwy_GKC0DhM&list=PLT8QQ5brLpQDo48gm1US1hLHLShDapU1I&index=13&ab_channel=Gorillaz-Topic"
+      },
+      {
+        "name": "Slow Country",
+        "url": "https://www.youtube.com/watch?v=97MUyv8FAes&list=PLT8QQ5brLpQDo48gm1US1hLHLShDapU1I&index=14&ab_channel=Gorillaz-Topic"
+      },
+      {
+        "name": "M1 A1",
+        "url": "https://www.youtube.com/watch?v=PF2tYPWis-U&list=PLT8QQ5brLpQDo48gm1US1hLHLShDapU1I&index=15&ab_channel=Gorillaz-Topic"
+      },
+      {
+        "name": "Clint Eastwood(Ed Case / Sweetie Irie Refix",
+        "url": "https://www.youtube.com/watch?v=xZGKMupy8Jg&list=PLT8QQ5brLpQDo48gm1US1hLHLShDapU1I&index=16&ab_channel=Gorillaz-Topic"
+      },
+      {
+        "name": "19-2000",
+        "url": "https://www.youtube.com/watch?v=KKsuL9QAeuo&list=PLT8QQ5brLpQDo48gm1US1hLHLShDapU1I&index=17&ab_channel=Gorillaz-Topic"
+      }
+    ],
+    "image_front": "https://images.squarespace-cdn.com/content/v1/56858337cbced60d3b293aef/1616532783842-2VUL955H7PSKNXKOMCEP/Albumism_Gorillaz_Gorillaz_MainImage_16x9.jpg?format=1000w",
+    "image_back": "https://www.theaudiodb.com/images/media/album/thumbback/qwsurv1446823161.jpg"
+  },
+  {
+    "id": 2,
+    "name": "Deamon Days",
+    "year": "2005",
+    "songs": [
+      {
+        "name": "Intro",
+        "url": "https://www.youtube.com/watch?v=c6oK14Pt9Qk&list=OLAK5uy_n6OIG6WH-BVE-xbdyDfjQeydPbN6l9tF4&index=1&ab_channel=Gorillaz"
+      },
+      {
+        "name": "Last Living Souls",
+        "url": "https://www.youtube.com/watch?v=k7wIluiBvZE&list=OLAK5uy_n6OIG6WH-BVE-xbdyDfjQeydPbN6l9tF4&index=2&ab_channel=Gorillaz"
+      },
+      {
+        "name": "Kids With Guns",
+        "url": "https://www.youtube.com/watch?v=VCkFSe3voRc&list=OLAK5uy_n6OIG6WH-BVE-xbdyDfjQeydPbN6l9tF4&index=3&ab_channel=Gorillaz"
+      },
+      {
+        "name": "O grean World",
+        "url": "https://www.youtube.com/watch?v=tMt_YXr90AM&list=OLAK5uy_n6OIG6WH-BVE-xbdyDfjQeydPbN6l9tF4&index=4&ab_channel=Gorillaz"
+      },
+      {
+        "name": "Dirty Harry",
+        "url": "https://www.youtube.com/watch?v=cLnkQAeMbIM&list=OLAK5uy_n6OIG6WH-BVE-xbdyDfjQeydPbN6l9tF4&index=5&ab_channel=Gorillaz"
+      },
+      {
+        "name": "Feel Good Inc.",
+        "url": "https://www.youtube.com/watch?v=HyHNuVaZJ-k&list=OLAK5uy_n6OIG6WH-BVE-xbdyDfjQeydPbN6l9tF4&index=6&ab_channel=Gorillaz"
+      },
+      {
+        "name": "El Mañana",
+        "url": "https://www.youtube.com/watch?v=hji4gBuOvIQ&list=OLAK5uy_n6OIG6WH-BVE-xbdyDfjQeydPbN6l9tF4&index=7&ab_channel=Gorillaz"
+      },
+      {
+        "name": "Every Planet We Reach",
+        "url": "https://www.youtube.com/watch?v=eevt2glBfMg&list=OLAK5uy_n6OIG6WH-BVE-xbdyDfjQeydPbN6l9tF4&index=8&ab_channel=Gorillaz"
+      },
+      {
+        "name": "November Has Come",
+        "url": "https://www.youtube.com/watch?v=EGc9mgpvtxU&list=OLAK5uy_n6OIG6WH-BVE-xbdyDfjQeydPbN6l9tF4&index=9&ab_channel=Gorillaz"
+      },
+      {
+        "name": "All Alone",
+        "url": "https://www.youtube.com/watch?v=VHhND-BkWdk&list=OLAK5uy_n6OIG6WH-BVE-xbdyDfjQeydPbN6l9tF4&index=10&ab_channel=Gorillaz"
+      },
+      {
+        "name": "White Light",
+        "url": "https://www.youtube.com/watch?v=P91kQ8ADh5Q&list=OLAK5uy_n6OIG6WH-BVE-xbdyDfjQeydPbN6l9tF4&index=11&ab_channel=Gorillaz"
+      },
+      {
+        "name": "DARE",
+        "url": "https://www.youtube.com/watch?v=uAOR6ib95kQ&list=OLAK5uy_n6OIG6WH-BVE-xbdyDfjQeydPbN6l9tF4&index=12&ab_channel=Gorillaz"
+      },
+      {
+        "name": "Fire Coming Out",
+        "url": "https://www.youtube.com/watch?v=uAOR6ib95kQ&list=OLAK5uy_n6OIG6WH-BVE-xbdyDfjQeydPbN6l9tF4&index=13&ab_channel=Gorillaz"
+      },
+      {
+        "name": "Don't Get Lost In Heaven",
+        "url": "https://www.youtube.com/watch?v=uAOR6ib95kQ&list=OLAK5uy_n6OIG6WH-BVE-xbdyDfjQeydPbN6l9tF4&index=14&ab_channel=Gorillaz"
+      },
+      {
+        "name": "Demon Days",
+        "url": "https://www.youtube.com/watch?v=uAOR6ib95kQ&list=OLAK5uy_n6OIG6WH-BVE-xbdyDfjQeydPbN6l9tF4&index=15&ab_channel=Gorillaz"
+      }
+    ],
+    "image_front": "https://undiaundisco.files.wordpress.com/2015/05/gorillaz-demon-days.jpg",
+    "image_back": "https://turnupthatvolume.files.wordpress.com/2020/05/dd-3.jpg"
+  }
+]

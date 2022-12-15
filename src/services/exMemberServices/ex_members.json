@@ -1,0 +1,46 @@
+[
+    {
+        "id": 1,
+        "name": "Paula Cracker",
+        "gender": "Female",
+        "born": "October 12, 1978",
+        "age": "44",
+        "place_at_born": "England",
+        "occupations": "Guitarist",
+        "years_active": "1998",
+        "image": "https://static.wikia.nocookie.net/kong/images/e/e8/Paula_Cracker_profile.jpg"
+    },
+    {
+        "id": 2,
+        "name": "Del",
+        "gender": "Ghost",
+        "born": "August 12, 1972 ",
+        "age": "?",
+        "place_at_born": "Brooklin, United States",
+        "occupations": "singer",
+        "years_active": "1998 - 2022",
+        "image": "https://static.wikia.nocookie.net/kong/images/5/55/Del_on_jump_the_gut.png"
+    },
+    {
+        "id": 3,
+        "name": "Cyborg Noodle",
+        "gender": "Female",
+        "born": "?",
+        "age": "?",
+        "place_at_born": "?",
+        "occupations": "Guitarist",
+        "years_active": "2006 - 2010 ",
+        "image": "https://static.wikia.nocookie.net/kong/images/8/8a/Close_up_of_cyborg_noodle%27s_face_in_the_lost_chord.jpg"
+    },
+    {
+        "id": 4,
+        "name": "Ace D. Copular",
+        "gender": "Male",
+        "born": "1981",
+        "age": "42",
+        "place_at_born": "Townsville",
+        "occupations": "Bassist",
+        "years_active": "2018",
+        "image": "https://static.wikia.nocookie.net/kong/images/6/66/Ace_Tranz.png"
+    }
+]
