@@ -4,7 +4,7 @@ import exMemberRoutes from './routes/exMemberRoutes';
 import disk from './routes/diskRoutes'
 import cors from 'cors';
 
-const PORT = 8000;
+const PORT = process.env.PORT || 8000;
 const app = express();
 
 app.use(express.json());
