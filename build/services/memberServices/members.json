@@ -1,0 +1,46 @@
+[
+    {
+        "id": 1,
+        "name": "Murdoc Niccals",
+        "gender": "Male",
+        "born": "June 6, 1966",
+        "age": "56",
+        "place_at_born": "Stoke-on-Trent, England",
+        "occupations": "Bassist",
+        "years_active": "1998 - present",
+        "image": "https://static.wikia.nocookie.net/kong/images/7/74/Murdoc_Phase_7_.jpg"
+    },
+    {
+        "id": 2,
+        "name": "Stuart Harold (2-D)",
+        "born": "May 23, 1978",
+        "gender": "Male",
+        "age": "44",
+        "place_at_born": "Hertfordshire, England",
+        "occupations": "singer",
+        "years_active": "1998 - present",
+        "image": "https://static.wikia.nocookie.net/kong/images/c/c9/2-D_Phase_7_.jpg"
+    },
+    {
+        "id": 3,
+        "name": "Russel Hobbs",
+        "born": "June 3, 1975",
+        "gender": "Male",
+        "age": "47",
+        "place_at_born": "Brooklyn, United States",
+        "occupations": "drummer",
+        "years_active": "1998 - present",
+        "image": "https://static.wikia.nocookie.net/kong/images/1/1f/Russel_Phase_7_.jpg"
+    },
+    {
+        "id": 4,
+        "name": "Noodle",
+        "born": "October 31, 1990",
+        "gender": "Female",
+        "age": "32",
+        "place_at_born": "Osaka, Japan",
+        "occupations": "guitarist",
+        "years_active": "1998 - present",
+        "image": "https://static.wikia.nocookie.net/kong/images/5/5a/Noodle_Phase_7_.jpg"
+    }
+]
