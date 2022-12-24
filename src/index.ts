@@ -11,8 +11,8 @@ app.use(express.json());
 app.use(cors());
 app.get('/', (_req, res) => { res.send('Hello World welcome api wiki gorillaz!'); });
 
-app.use('/apigorillaz/v1/member', membersRoutes);
-app.use('/apigorillaz/v1/exmember', exMemberRoutes);
-app.use('/apigorillaz/v1/disk', disk);
+app.use('/v1/member', membersRoutes);
+app.use('/v1/exmember', exMemberRoutes);
+app.use('/v1/disk', disk);
 
 app.listen(PORT, () => { console.log(`Example app listening at http://localhost:${PORT}`); });
