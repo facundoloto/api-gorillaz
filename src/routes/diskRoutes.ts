@@ -4,7 +4,7 @@ import * as exMemberServices from '../services/diskServices/diskServices'
 const router = express.Router();
 
 router.get("/", (_req, res) => {
-    res.send(exMemberServices.getDisk());
+    res.send(exMemberServices.getDisk()); 
 });
 
 router.get("/:id", (req, res) => {

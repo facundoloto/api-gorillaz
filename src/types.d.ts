@@ -25,5 +25,5 @@ export interface Disk extends Info {
     image_back:string
 }
 
-
+//these variables need be the same that we recive from the method post 
 export type exMember = Member
